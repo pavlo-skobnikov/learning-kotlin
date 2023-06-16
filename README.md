@@ -1,23 +1,21 @@
 # learning-kotlin
 
 This repository contains my code snippets and notes while learning Kotlin.
-The materials for learning are the 2 O'Reilly courses:
-
-- [Introduction to Kotlin Programming](https://learning.oreilly.com/videos/introduction-to-kotlin/9781491964125/)
-- [Advanced Kotlin Programming](https://learning.oreilly.com/videos/advanced-kotlin-programming/9781491964149/)
-
-The concepts are grouped by the course chapters, and each chapter has
-corresponding files placed in a package, which, in turn, is placed into the 
-package of the corresponding course.
 
 ## Summary
 
 ### Introduction to Kotlin Programming
 
-1. TODO -> Start going through the course and creating hyperlinks to the
-   corresponding files.
+The code snippets in the [introduction](./src/main/kotlin/introduction)
+directory are from
+the [Introduction to Kotlin Programming](https://learning.oreilly.com/videos/introduction-to-kotlin/9781491964125/)
 
-### Advanced Kotlin Programming
-
-1. TODO -> Start going through the course and creating hyperlinks to the
-   corresponding files.
+Here are the main topics covered in the course:
+1. [Basics](./src/main/kotlin/introduction/basics)
+2. [Functions](./src/main/kotlin/introduction/functions)
+3. [Classes](./src/main/kotlin/introduction/classes)
+4. [Inheritance](./src/main/kotlin/introduction/inheritance)
+5. [Nullability](./src/main/kotlin/introduction/nullability)
+6. [Tidbits](./src/main/kotlin/introduction/tidbits)
+7. [Functional Programming](./src/main/kotlin/introduction/fp)
+8. [Java Interoperability](./src/main/kotlin/introduction/interoperability)
